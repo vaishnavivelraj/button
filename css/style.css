@@ -1,0 +1,120 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background-color:black;
+}
+section{
+	
+	margin:auto;
+	margin-top:15px;
+	background-color:white;
+	width:50%;
+	height:80%;
+	border-radius:20px;
+	border:3px dashed black;
+}
+#btn1, #btn2, #btn3{
+	width:100%;
+	height:20%;
+	padding:75px;
+	font-size:20px;
+	
+}
+.button1{
+	padding:20px;
+	background-color:red;
+	color:white;
+	border: 2px solid white;
+}
+.button2{
+	padding:20px;
+	margin-left:10px;
+	background-color:blue;
+	color:white;
+	border-radius:25px;
+}
+.button3{
+	padding:20px;
+	margin-left:10px;
+	background-color:green;
+	color:white;
+	border-radius:45%;
+	border:5px dotted white;
+}
+.button4{
+	padding:20px;
+	margin-left:10px;
+	background-color:maroon;
+	color:white;
+	border:4px double white;
+}
+.button5{
+	padding:20px;
+	background-color:yellow;
+	color:black;
+	border-radius:20px 40px;
+	border:4px dashed black;
+}
+.button6{
+	padding:20px;
+	margin-left:45px;
+	background-color:purple;
+	color:white;
+	border-bottom-right-radius:50%;
+	border-bottom-left-radius:50%;
+	border:4px groove white;
+}
+.button7{
+	padding:20px;
+	margin-left:45px;
+	background-color:violet;
+	border:4px ridge black;
+	border-radius:35%;
+}
+.button8{
+	padding:20px;
+	margin-left:30px;
+	background-color:pink;
+	border-top-left-radius:25%;
+	border-bottom-right-radius:25%;
+	border:5px dotted black;
+	
+}.button9{
+	padding:20px;
+	background-color:greenyellow;
+	color:black;
+	border-top-left-radius:90%;
+	
+	
+}
+.button10{
+	padding:20px;
+	margin-left:55px;
+	background-color:#0000ff;
+	color:white;
+	border-top-right-radius:75px;
+	border-bottom-right-radius:75px;
+	border:5px inset white;
+}
+.button11{
+	padding:20px;
+	margin-left:45px;
+	background-color:coral;
+	color:white;
+	border:5px double black;
+	border-top-left-radius:90%;
+	border-bottom-right-radius:90%;
+}
+.button12{
+	padding:20px;
+	margin-left:45px;
+	background-color:red;
+	color:white;
+	border:10px dotted black;
+	
+}
+
